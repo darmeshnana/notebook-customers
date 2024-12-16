@@ -1,0 +1,185 @@
+VARIANTID,PB_TAAKID,PB_TAAK_OMSCHRIJVING,TAAK_TAAKID,TAAK_TAAK_OMSCHRIJVING,TAAK_VOLGORDE
+000010,9215,Controleren oplevering,9660,Controle PV staat,0001
+000010,9215,Controleren oplevering,9670,Controle revisie,0002
+000012,9215,Controleren oplevering,9660,Controle PV staat,0001
+000012,9215,Controleren oplevering,9670,Controle revisie,0002
+000013,9215,Controleren oplevering,9660,Controle PV staat,0001
+000013,9215,Controleren oplevering,9670,Controle revisie,0002
+000016,9215_P04,Controleren oplevering,9660_P04,Controle PV staat,0001
+000016,9215_P04,Controleren oplevering,9670_P04,Controle revisie,0002
+000018,9215,Controleren oplevering,9660_18,Controle PV staat,0001
+000018,9215,Controleren oplevering,9670_18,Controle revisie,0002
+000019,9210_ASAP,Controleren oplevering,9679_CM01,Aanvullen en afronden case gas lekzoeken,0001
+000019,9210_ASAP,Controleren oplevering,9659_ASAP,Inzichtelijk maken kosten,0002
+000019,9210_ASAP,Controleren oplevering,9670_ASAP,Controle revisie,0003
+000019,9210_ASAP,Controleren oplevering,9671_ASAP,Afsluiten openstaande bestelobligo's,0004
+000020,9215,Controleren oplevering,9660_20,Controle PV staat,0001
+000020,9215,Controleren oplevering,9670_20,Controle revisie,0002
+000025,9210_HSKV,Controleren oplevering,9660_HSKV,Controle PV staat,0001
+000025,9210_HSKV,Controleren oplevering,9670_HSKV,Controle revisie,0002
+000031,9210_ASAP,Controleren oplevering,9679_CM01,Aanvullen en afronden case gas lekzoeken,0001
+000031,9210_ASAP,Controleren oplevering,9659_ASAP,Inzichtelijk maken kosten,0002
+000031,9210_ASAP,Controleren oplevering,9670_ASAP,Controle revisie,0003
+000031,9210_ASAP,Controleren oplevering,9671_ASAP,Afsluiten openstaande bestelobligo's,0004
+000032,9210_ASAP,Controleren oplevering,9659_ASAP,Inzichtelijk maken kosten,0001
+000032,9210_ASAP,Controleren oplevering,9670_ASAP,Controle revisie,0003
+000032,9210_ASAP,Controleren oplevering,9671_ASAP,Afsluiten openstaande bestelobligo's,0004
+000033,9210_ASAP,Controleren oplevering,9659_ASAP,Inzichtelijk maken kosten,0001
+000033,9210_ASAP,Controleren oplevering,9670_ASAP,Controle revisie,0003
+000033,9210_ASAP,Controleren oplevering,9671_ASAP,Afsluiten openstaande bestelobligo's,0004
+000034,9210_ASAP,Controleren oplevering,9659_ASAP,Inzichtelijk maken kosten,0001
+000034,9210_ASAP,Controleren oplevering,9670_ASAP,Controle revisie,0003
+000034,9210_ASAP,Controleren oplevering,9671_ASAP,Afsluiten openstaande bestelobligo's,0004
+000035,9210_ASAP,Controleren oplevering,9679_CM01,Aanvullen en afronden case gas lekzoeken,0001
+000035,9210_ASAP,Controleren oplevering,9659_ASAP,Inzichtelijk maken kosten,0002
+000035,9210_ASAP,Controleren oplevering,9670_ASAP,Controle revisie,0003
+000035,9210_ASAP,Controleren oplevering,9671_ASAP,Afsluiten openstaande bestelobligo's,0004
+000037,9210_ASAP,Controleren oplevering,9679_CM01,Aanvullen en afronden case gas lekzoeken,0001
+000037,9210_ASAP,Controleren oplevering,9659_ASAP,Inzichtelijk maken kosten,0002
+000037,9210_ASAP,Controleren oplevering,9670_ASAP,Controle revisie,0003
+000037,9210_ASAP,Controleren oplevering,9671_ASAP,Afsluiten openstaande bestelobligo's,0004
+000038,9210_ASAP,Controleren oplevering,9679_CM01,Aanvullen en afronden case gas lekzoeken,0001
+000038,9210_ASAP,Controleren oplevering,9659_ASAP,Inzichtelijk maken kosten,0002
+000038,9210_ASAP,Controleren oplevering,9670_ASAP,Controle revisie,0003
+000038,9210_ASAP,Controleren oplevering,9671_ASAP,Afsluiten openstaande bestelobligo's,0004
+000039,9210_ASAP,Controleren oplevering,9659_ASAP,Inzichtelijk maken kosten,0001
+000039,9210_ASAP,Controleren oplevering,9670_ASAP,Controle revisie,0003
+000039,9210_ASAP,Controleren oplevering,9671_ASAP,Afsluiten openstaande bestelobligo's,0004
+000042,9210_ASAP,Controleren oplevering,9673_AS02,Inzichtelijk maken kosten,0001
+000042,9210_ASAP,Controleren oplevering,9674_AS02,Controle-check (ordernummer klant),0002
+000042,9210_ASAP,Controleren oplevering,9675_AS02,Referentie ten aanzien van facturatie vermelden,0003
+000042,9210_ASAP,Controleren oplevering,9676_AS02,Kosten invoeren en factuurblokkade weghalen,0004
+000044,9215,Controleren oplevering,9660_18,Controle PV staat,0001
+000044,9215,Controleren oplevering,9670_18,Controle revisie,0002
+000045,9215,Controleren oplevering,9660_20,Controle PV staat,0001
+000045,9215,Controleren oplevering,9670_20,Controle revisie,0002
+000046,9210_ASAP,Controleren oplevering,9659_ASAP,Inzichtelijk maken kosten,0001
+000046,9210_ASAP,Controleren oplevering,9670_ASAP,Controle revisie,0003
+000046,9210_ASAP,Controleren oplevering,9671_ASAP,Afsluiten openstaande bestelobligo's,0004
+000047,9215_P04,Controleren oplevering,9660_P04,Controle PV staat,0001
+000047,9215_P04,Controleren oplevering,9670_P04,Controle revisie,0002
+000048,9215_P01,Controleren oplevering,9691_P01,In behandeling Revisie Tekenkamer,0001
+000048,9215_P01,Controleren oplevering,9670_P01,Controle eindrevisie,0002
+000048,9215_P01,Controleren oplevering,9790_P01,Aanmaken oplevermap,0003
+000048,9215_P01,Controleren oplevering,9671_P01,Afsluiten openstaande bestelobligo's,0004
+000048,9215_P01,Controleren oplevering,9695_P01,SAP financiële afhandeling,0005
+000048,9215_P01,Controleren oplevering,9682_P01,Financiële Evaluatie,0006
+000048,9215_P01,Controleren oplevering,9704_P01,Project archiveren,0011
+000048,9215_P01,Controleren oplevering,9703_P01,Projectevaluatie Financieel en Technisch,0013
+000049,9215_P01,Controleren oplevering,9691_P01,In behandeling Revisie Tekenkamer,0001
+000049,9215_P01,Controleren oplevering,9670_P01,Controle eindrevisie,0002
+000049,9215_P01,Controleren oplevering,9790_P01,Aanmaken oplevermap,0003
+000049,9215_P01,Controleren oplevering,9671_P01,Afsluiten openstaande bestelobligo's,0004
+000049,9215_P01,Controleren oplevering,9695_P01,SAP financiële afhandeling,0005
+000049,9215_P01,Controleren oplevering,9682_P01,Financiële Evaluatie,0006
+000049,9215_P01,Controleren oplevering,9704_P01,Project archiveren,0011
+000049,9215_P01,Controleren oplevering,9703_P01,Projectevaluatie Financieel en Technisch,0013
+000051,9210_ASAP,Controleren oplevering,9790_ASAP,Aanmaken oplevermap,0001
+000051,9210_ASAP,Controleren oplevering,9670_ASAP,Controle revisie,0003
+000051,9210_ASAP,Controleren oplevering,9671_ASAP,Afsluiten openstaande bestelobligo's,0005
+000052,9210_ASAP,Controleren oplevering,9790_ASAP,Aanmaken oplevermap,0001
+000052,9210_ASAP,Controleren oplevering,9670_ASAP,Controle revisie,0003
+000052,9210_ASAP,Controleren oplevering,9671_ASAP,Afsluiten openstaande bestelobligo's,0005
+000053,9210_ASAP,Controleren oplevering,9790_ASAP,Aanmaken oplevermap,0001
+000053,9210_ASAP,Controleren oplevering,9670_ASAP,Controle revisie,0003
+000053,9210_ASAP,Controleren oplevering,9671_ASAP,Afsluiten openstaande bestelobligo's,0005
+000054,9210_ASAP,Controleren oplevering,9790_ASAP,Aanmaken oplevermap,0001
+000054,9210_ASAP,Controleren oplevering,9670_ASAP,Controle revisie,0003
+000054,9210_ASAP,Controleren oplevering,9671_ASAP,Afsluiten openstaande bestelobligo's,0005
+000055,9210_ASAP,Controleren oplevering,9790_ASAP,Aanmaken oplevermap,0001
+000055,9210_ASAP,Controleren oplevering,9670_ASAP,Controle revisie,0003
+000055,9210_ASAP,Controleren oplevering,9671_ASAP,Afsluiten openstaande bestelobligo's,0005
+000056,9210_ASAP,Controleren oplevering,9790_ASAP,Aanmaken oplevermap,0001
+000056,9210_ASAP,Controleren oplevering,9670_ASAP,Controle revisie,0003
+000056,9210_ASAP,Controleren oplevering,9671_ASAP,Afsluiten openstaande bestelobligo's,0005
+000057,9210_ASAP,Controleren oplevering,9790_ASAP,Aanmaken oplevermap,0001
+000057,9210_ASAP,Controleren oplevering,9670_ASAP,Controle revisie,0003
+000057,9210_ASAP,Controleren oplevering,9671_ASAP,Afsluiten openstaande bestelobligo's,0005
+000058,9210_ASAP,Controleren oplevering,9790_ASAP,Aanmaken oplevermap,0001
+000058,9210_ASAP,Controleren oplevering,9670_ASAP,Controle revisie,0003
+000058,9210_ASAP,Controleren oplevering,9671_ASAP,Afsluiten openstaande bestelobligo's,0005
+000060,9210_ASAP,Controleren oplevering,9679_CM01,Aanvullen en afronden case gas lekzoeken,0001
+000065,9210_ASAP,Controleren oplevering,9679_CM01,Aanvullen en afronden case gas lekzoeken,0001
+000084,9210_ASAP,Controleren oplevering,9659_ASAP,Inzichtelijk maken kosten,0001
+000084,9210_ASAP,Controleren oplevering,9670_ASAP,Controle revisie,0003
+000084,9210_ASAP,Controleren oplevering,9671_ASAP,Afsluiten openstaande bestelobligo's,0004
+000085,9210_ASAP,Controleren oplevering,9659_ASAP,Inzichtelijk maken kosten,0001
+000085,9210_ASAP,Controleren oplevering,9670_ASAP,Controle revisie,0003
+000085,9210_ASAP,Controleren oplevering,9671_ASAP,Afsluiten openstaande bestelobligo's,0004
+000086,9210_ASAP,Controleren oplevering,9679_CM01,Aanvullen en afronden case gas lekzoeken,0001
+000086,9210_ASAP,Controleren oplevering,9659_ASAP,Inzichtelijk maken kosten,0002
+000086,9210_ASAP,Controleren oplevering,9670_ASAP,Controle revisie,0003
+000086,9210_ASAP,Controleren oplevering,9671_ASAP,Afsluiten openstaande bestelobligo's,0004
+000087,9210_ASAP,Controleren oplevering,9679_CM01,Aanvullen en afronden case gas lekzoeken,0001
+000087,9210_ASAP,Controleren oplevering,9659_ASAP,Inzichtelijk maken kosten,0002
+000087,9210_ASAP,Controleren oplevering,9670_ASAP,Controle revisie,0003
+000087,9210_ASAP,Controleren oplevering,9671_ASAP,Afsluiten openstaande bestelobligo's,0004
+000088,9210_ASAP,Controleren oplevering,9679_CM01,Aanvullen en afronden case gas lekzoeken,0001
+000088,9210_ASAP,Controleren oplevering,9659_ASAP,Inzichtelijk maken kosten,0002
+000088,9210_ASAP,Controleren oplevering,9670_ASAP,Controle revisie,0003
+000088,9210_ASAP,Controleren oplevering,9671_ASAP,Afsluiten openstaande bestelobligo's,0004
+000089,9210_ASAP,Controleren oplevering,9679_CM01,Aanvullen en afronden case gas lekzoeken,0001
+000089,9210_ASAP,Controleren oplevering,9659_ASAP,Inzichtelijk maken kosten,0002
+000089,9210_ASAP,Controleren oplevering,9670_ASAP,Controle revisie,0003
+000089,9210_ASAP,Controleren oplevering,9671_ASAP,Afsluiten openstaande bestelobligo's,0004
+000090,9210_ASAP,Controleren oplevering,9679_CM01,Aanvullen en afronden case gas lekzoeken,0001
+000090,9210_ASAP,Controleren oplevering,9659_ASAP,Inzichtelijk maken kosten,0002
+000090,9210_ASAP,Controleren oplevering,9670_ASAP,Controle revisie,0003
+000090,9210_ASAP,Controleren oplevering,9671_ASAP,Afsluiten openstaande bestelobligo's,0004
+000091,9210_ASAP,Controleren oplevering,9679_CM01,Aanvullen en afronden case gas lekzoeken,0001
+000091,9210_ASAP,Controleren oplevering,9659_ASAP,Inzichtelijk maken kosten,0002
+000091,9210_ASAP,Controleren oplevering,9670_ASAP,Controle revisie,0003
+000091,9210_ASAP,Controleren oplevering,9671_ASAP,Afsluiten openstaande bestelobligo's,0004
+000094,9210_94,Controleren oplevering,9679_CM01,Aanvullen en afronden case gas lekzoeken,0001
+000094,9210_94,Controleren oplevering,9659_94,Inzichtelijk maken kosten,0011
+000094,9210_94,Controleren oplevering,9670_94,Controle revisie,0021
+000094,9210_94,Controleren oplevering,9671_94,Afsluiten openstaande bestelobligo's,0031
+000095,9210_94,Controleren oplevering,9659_94,Inzichtelijk maken kosten,0001
+000095,9210_94,Controleren oplevering,9670_94,Controle revisie,0003
+000095,9210_94,Controleren oplevering,9671_94,Afsluiten openstaande bestelobligo's,0004
+000096,9210_96,Controleren oplevering,9679_CM01,Aanvullen en afronden case gas lekzoeken,0001
+000096,9210_96,Controleren oplevering,9659_96,Inzichtelijk maken kosten,0002
+000096,9210_96,Controleren oplevering,9670_96,Controle revisie,0003
+000096,9210_96,Controleren oplevering,9671_96,Afsluiten openstaande bestelobligo's,0004
+000097,9210_96,Controleren oplevering,9679_CM01,Aanvullen en afronden case gas lekzoeken,0001
+000097,9210_96,Controleren oplevering,9659_96,Inzichtelijk maken kosten,0002
+000097,9210_96,Controleren oplevering,9670_96,Controle revisie,0003
+000097,9210_96,Controleren oplevering,9671_96,Afsluiten openstaande bestelobligo's,0004
+000125,9210_HSK2,Controleren oplevering,9660_HSKV,Controle PV staat,0001
+000125,9210_HSK2,Controleren oplevering,9670_HSKV,Controle revisie,0002
+000131,9210_ASAP,Controleren oplevering,9679_CM01,Aanvullen en afronden case gas lekzoeken,0001
+000131,9210_ASAP,Controleren oplevering,9659_ASAP,Inzichtelijk maken kosten,0002
+000131,9210_ASAP,Controleren oplevering,9670_ASAP,Controle revisie,0003
+000131,9210_ASAP,Controleren oplevering,9671_ASAP,Afsluiten openstaande bestelobligo's,0004
+000301,9210_ASAP,Controleren oplevering,9679_CM01,Aanvullen en afronden case gas lekzoeken,0001
+000301,9210_ASAP,Controleren oplevering,9659_ASAP,Inzichtelijk maken kosten,0002
+000301,9210_ASAP,Controleren oplevering,9670_ASAP,Controle revisie,0003
+000301,9210_ASAP,Controleren oplevering,9671_ASAP,Afsluiten openstaande bestelobligo's,0004
+000302,9210_ASAP,Controleren oplevering,9679_CM01,Aanvullen en afronden case gas lekzoeken,0001
+000302,9210_ASAP,Controleren oplevering,9659_ASAP,Inzichtelijk maken kosten,0002
+000302,9210_ASAP,Controleren oplevering,9670_ASAP,Controle revisie,0003
+000302,9210_ASAP,Controleren oplevering,9671_ASAP,Afsluiten openstaande bestelobligo's,0004
+000303,9210_ASAP,Controleren oplevering,9679_CM01,Aanvullen en afronden case gas lekzoeken,0001
+000303,9210_ASAP,Controleren oplevering,9659_ASAP,Inzichtelijk maken kosten,0002
+000303,9210_ASAP,Controleren oplevering,9670_ASAP,Controle revisie,0003
+000303,9210_ASAP,Controleren oplevering,9671_ASAP,Afsluiten openstaande bestelobligo's,0004
+000304,9210_ASAP,Controleren oplevering,9679_CM01,Aanvullen en afronden case gas lekzoeken,0001
+000304,9210_ASAP,Controleren oplevering,9659_ASAP,Inzichtelijk maken kosten,0002
+000304,9210_ASAP,Controleren oplevering,9670_ASAP,Controle revisie,0003
+000304,9210_ASAP,Controleren oplevering,9671_ASAP,Afsluiten openstaande bestelobligo's,0004
+000305,9210_ASAP,Controleren oplevering,9679_CM01,Aanvullen en afronden case gas lekzoeken,0001
+000305,9210_ASAP,Controleren oplevering,9659_ASAP,Inzichtelijk maken kosten,0002
+000305,9210_ASAP,Controleren oplevering,9670_ASAP,Controle revisie,0003
+000305,9210_ASAP,Controleren oplevering,9671_ASAP,Afsluiten openstaande bestelobligo's,0004
+000931,9210_ASAP,Controleren oplevering,9679_CM01,Aanvullen en afronden case gas lekzoeken,0001
+000931,9210_ASAP,Controleren oplevering,9659_ASAP,Inzichtelijk maken kosten,0002
+000931,9210_ASAP,Controleren oplevering,9670_ASAP,Controle revisie,0003
+000931,9210_ASAP,Controleren oplevering,9671_ASAP,Afsluiten openstaande bestelobligo's,0004
+000951,9210_ASAP,Controleren oplevering,9790_ASAP,Aanmaken oplevermap,0001
+000951,9210_ASAP,Controleren oplevering,9670_ASAP,Controle revisie,0003
+000951,9210_ASAP,Controleren oplevering,9671_ASAP,Afsluiten openstaande bestelobligo's,0005
+000960,9210_ASAP,Controleren oplevering,9679_CM01,Aanvullen en afronden case gas lekzoeken,0001
+009052,9210_ASAP,Controleren oplevering,9790_ASAP,Aanmaken oplevermap,0001
+009052,9210_ASAP,Controleren oplevering,9670_ASAP,Controle revisie,0003
+009052,9210_ASAP,Controleren oplevering,9671_ASAP,Afsluiten openstaande bestelobligo's,0005
+900010,9210_TT,PLANBLOK Controleren oplevering,9659_TT,TAAK Oplevering1,0001
